@@ -17,3 +17,4 @@ Data used is **BankCustomers.csv** from Kaggle
 * Exploratory Data Analysis
 * Data Processing
 * Data Modelling
+* Tensorboard Visualisation
